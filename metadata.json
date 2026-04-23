@@ -1,0 +1,6 @@
+{
+  "name": "BookList SPA",
+  "description": "A comprehensive book management application built with Vue.js, featuring dynamic routing, real-time forms, and interactive book lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
